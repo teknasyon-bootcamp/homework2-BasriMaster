@@ -14,3 +14,8 @@ Bu ödev içerisinde `posts.php`, `post.php` ve `functions.php` dosyalarında d�
 
 ![](https://user-images.githubusercontent.com/69991414/130787126-3dd4f2ad-6caf-4530-b4ad-8a1c75f78123.png)
 
+<h3>post.php ekran görüntüsü</h3>
+<p>burada functions.php den aldığımız verilerle bir döngü yardımıyla ayrıca güzel gözükmesi amacıyla bir css kütühanesi kullandım ve bu şekilde verilerimiz güzel bir görüntüye sahip oldu</p>
+
+
+![](https://user-images.githubusercontent.com/69991414/130787664-83954b11-d043-477c-a9c5-e4100c3bc032.png)
