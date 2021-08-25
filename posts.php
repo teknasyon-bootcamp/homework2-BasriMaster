@@ -20,3 +20,9 @@
  * dosyasını döngü içinde dahil etmeli ve her yazı için detayları göstermelisiniz.
  */
 
+   include_once './functions.php';
+
+   $getRandomPostCount = getRandomPostCount(5, 15); // burada getRandomPostCount fonksiyonuna random bir sayı gönderiyoruz
+
+
+
